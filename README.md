@@ -1,10 +1,26 @@
-- 👋 Hi, I’m Abdelrahman Said
-- 👀 I’m interested in AI 
-- 🌱 I’m currently learning Data Science and AI
-- 💞️ I’m looking to collaborate on AI projects
+# 👋 Hi, I'm Abdelrahman Said  
 
+🎓 I'm a **Computer Science student** passionate about building intelligent systems.  
+💡 My main interests revolve around **Artificial Intelligence, Data Science, and Machine Learning**.  
+📚 Currently, I'm learning and improving my skills in:  
+- Data Science & Machine Learning  
+- Deep Learning & Computer Vision  
+- Generative AI & Deployment  
 
-<!---
-abdelrahmansaidai/abdelrahmansaidai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤝 I'm open to collaborating on **AI-driven projects**, especially those that combine **research and real-world impact**.  
+
+---
+
+### 🚀 A bit about me
+- 🎯 Completed AI Engineering internships at **Digital Egypt Pioneers Initiative (DEPI)** and **Samsung Innovation Campus (SIC)**.  
+- 🧪 Worked on projects like **Heart Attack Prediction**, **Brain Tumor Classification**, and **Emotion Recognition & Eye Tracking**.  
+- 🌍 Passionate about using AI to solve problems that matter.  
+
+---
+
+📫 **Let’s connect!**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahmansaidai)   
+- ✨ Here on GitHub!  
+
+---
+⭐ Always excited to learn, build, and share in the world of AI.
